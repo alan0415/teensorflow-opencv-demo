@@ -30,4 +30,6 @@ Matplotlib==3.1.1
 opencv-contrib-python==3.4.2.17
 ```
 # 4. Quick start
+```
 python3 main.py
+```
