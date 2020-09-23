@@ -21,12 +21,13 @@ The push button, "5.5 Inference", will load the model saved by "5.4 Show Trainin
 If you like to try it first, you can modify the code on line 72 and 74. Remove the mark(#) on line 72 and mark up line 74 will load the model provided to test inference before training it first.
 
 # 3. Environments
+```
 Tensorflow==2.0.0
 Tensorflow-datasets==1.3.0
 PyQt5==5.13.0
 numpy==1.17.3
 Matplotlib==3.1.1
 opencv-contrib-python==3.4.2.17
-
+```
 # 4. Quick start
 python3 main.py
